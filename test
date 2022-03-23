@@ -1,1 +1,15 @@
-
+name,"TODO List","""app"""
+text,"Enter your credentials below to login","""app"".""login"""
+success,"Login successful !
+Welcome back %s !","""app"".""login"".""message"""
+error,"Make sure you've entered the correct username and password","""app"".""login"".""message"""
+forget,"I forgot my password","""app"".""login"".""password"""
+reset,"Enter your address in the field below. A new password will be sent to your inbox.","""app"".""login"".""password"""
+user,Username,"""app"".""login"""
+pass,Password,"""app"".""login"""
+text,"Sign up for free! No credit card required!","""app"".""register"""
+success,"Thank you for signing up !
+Please check your email address to activate your account.","""app"".""register"".""message"""
+error,"We were unable to sign you up.
+Please correct the marked fields.","""app"".""register"".""message"""
+terms,"Terms and conditions","""app"".""menu"""
